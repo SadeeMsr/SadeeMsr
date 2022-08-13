@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, solidity, ethereum ecosystem**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://dashsantosh.me)
+- 👨‍💻 All of my projects are available at [portfolio](https://sadeemsr.github.io/Portfolio_Rohan)
 
 - 📫 How to reach me **srrohan333@gmail.com**
 
