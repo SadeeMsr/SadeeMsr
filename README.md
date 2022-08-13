@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, solidity, ethereum ecosystem**
+- 🌱 I’m currently learning **ReactJs, NodeJs, Solidity, Ethereum ecosystem**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://sadeemsr.github.io/Portfolio_Rohan)
 
