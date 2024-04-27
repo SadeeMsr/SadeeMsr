@@ -1,7 +1,5 @@
 
-![header](./CoverImage.png)
-
-<h3>I'm a CS student with an endless love for softwares</h3>
+<h3>Hello, I'm a CS student with an endless love for softwares</h3>
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
