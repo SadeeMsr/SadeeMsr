@@ -1,11 +1,7 @@
 
 <h3>Hello, I'm a CS student with an endless love for softwares</h3>
 
-- 🔭 I’m currently working on something awesome 🔥😎
-
-- 🌱 I’m currently learning **ReactJs, NodeJs, Solidity, Ethereum ecosystem**
-
-- 👨‍💻 All of my projects are available at [portfolio](https://sadeemsr.github.io/Portfolio_Rohan)
+- 🌱My Stacks are: **AWS, Next JS, Tailwind, Node JS, TypeScript, Prisma, SQL/NoSQL, AppSync, GraphQL, AWS Lambda, API Gateway**
 
 - 📫 How to reach me **srrohan333@gmail.com**
 
