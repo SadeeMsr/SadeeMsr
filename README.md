@@ -1,9 +1,9 @@
 
 <h3>Hello, I'm a CS student with an endless love for softwares</h3>
-
+-  
 - 🌱My Stacks are: **AWS, Next JS, Tailwind, Node JS, TypeScript, Prisma, SQL/NoSQL, AppSync, GraphQL, AWS Lambda, API Gateway**
 
-- 📫 How to reach me **srrohan333@gmail.com**
+- 📫 Portfolio presentation: https://iamrohan.my.canva.site/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
