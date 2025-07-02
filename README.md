@@ -1,5 +1,5 @@
 
-<h3>Hello, I'm a CS student with an endless love for softwares</h3>
+<h3>Hello, I'm Rohan. I love SaaS (Software as a Slave)</h3>
 -  
 - 🌱My Stacks are: **AWS, Next JS, Tailwind, Node JS, TypeScript, Prisma, SQL/NoSQL, AppSync, GraphQL, AWS Lambda, API Gateway**
 
