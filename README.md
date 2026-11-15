@@ -25,8 +25,8 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
       <a href="https://www.truckerpaperwork.com/"><img src="./assets/truckerpaperwork.jpg" alt="TruckerPaperwork" /></a>
       <h3>TruckerPaperwork</h3>
       <sub><b>Live · my product</b></sub>
-      <p>Mobile-first PWA: truckers scan paperwork, merge it into one clean PDF and send it to brokers from their own Gmail. Stripe subscriptions, Gmail OAuth, on-device scanning, Postgres row-level security, end-to-end tests in CI.</p>
-      <code>Next.js</code> <code>Supabase</code> <code>Stripe</code> <code>Gmail API</code> <code>Playwright</code>
+      <p>Mobile-first PWA: truckers scan paperwork, merge it into one clean PDF and send it to brokers from their own Gmail. Lemon Squeezy subscriptions, Gmail OAuth, on-device scanning, Postgres row-level security, end-to-end tests in CI.</p>
+      <code>Next.js</code> <code>Supabase</code> <code>Lemon Squeezy</code> <code>Gmail API</code> <code>Playwright</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.barnyardrecs.com/"><img src="./assets/barnyard-recs.jpg" alt="Barnyard Recs" /></a>
@@ -80,7 +80,7 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,aws,vercel,git,github,githubactions&theme=dark" alt="Data, cloud and tooling" />
 </p>
 
-**Also:** Stripe · Clerk · Gmail API (OAuth) · TanStack Query · PWAs · Playwright · Vitest · PostHog · AWS MediaConvert, S3, Lambda, AppSync
+**Also:** Stripe · Lemon Squeezy · Clerk · Gmail API (OAuth) · TanStack Query · PWAs · Playwright · Vitest · PostHog · AWS MediaConvert, S3, Lambda, AppSync
 
 ## 📈 Career, as release notes
 
