@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://rohanships.com/"><img src="https://img.shields.io/badge/Portfolio-rohanships.com-22D3EE?style=for-the-badge&labelColor=0B0B0B" alt="Portfolio: rohanships.com" /></a>
-  <a href="https://www.linkedin.com/in/md-sadee-rohan-4180a7211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/md-shadi-rohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rohan.devwhiz@gmail.com"><img src="https://img.shields.io/badge/Email-E95420?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.truckerpaperwork.com/"><img src="https://img.shields.io/badge/Now_building-TruckerPaperwork-2c0d27?style=for-the-badge" alt="Now building TruckerPaperwork" /></a>
 </p>
