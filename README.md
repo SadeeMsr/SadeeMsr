@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rohanships.com/"><img src="https://img.shields.io/badge/Portfolio-rohanships.com-22D3EE?style=for-the-badge&labelColor=0B0B0B" alt="Portfolio: rohanships.com" /></a>
   <a href="https://www.linkedin.com/in/md-sadee-rohan-4180a7211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rohan.devwhiz@gmail.com"><img src="https://img.shields.io/badge/Email-E95420?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.truckerpaperwork.com/"><img src="https://img.shields.io/badge/Now_building-TruckerPaperwork-2c0d27?style=for-the-badge" alt="Now building TruckerPaperwork" /></a>
@@ -10,10 +11,12 @@
 
 ## 👋 Hey, I'm Rohan
 
-I'm a software engineer who builds web products end to end with **Next.js, Node.js and TypeScript**: Postgres schemas, APIs, AWS pipelines, payments, and the dashboards people actually use every day.
+I'm an AI-native software engineer who builds web products end to end with **Next.js, Node.js and TypeScript**: Postgres schemas, APIs, AWS pipelines, payments, and the dashboards people actually use every day. Claude Code and Cursor are part of how I ship, and I review every line.
+
+🌐 **See everything at [rohanships.com](https://rohanships.com/)**: a clean Pro mode, or RohanOS if you're curious.
 
 - 🚚 **Now:** building and running [**TruckerPaperwork**](https://www.truckerpaperwork.com/), my own SaaS for truck drivers
-- 🎧 **Before:** two years at [Spade Digital](https://spade-digital-usa.vercel.app/) building [Barnyard Recs](https://www.barnyardrecs.com/), a mentorship marketplace with around 1,000 active users
+- 🎧 **Before:** two years at [Spade Digital](https://spade-digital-usa.vercel.app/) building [Barnyard Recs](https://www.barnyardrecs.com/) end to end (front end, back end and AWS), a mentorship marketplace now earning **$50k+ ARR** with around 1,000 active users
 - 🏫 **On the side:** a school platform that runs daily in 10 classes at [Sonamukh Smart Academy](https://www.sonamukh.org/)
 - 💼 **Open to** software engineering roles and selected freelance work
 
@@ -31,9 +34,9 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
     <td width="50%" valign="top">
       <a href="https://www.barnyardrecs.com/"><img src="./assets/barnyard-recs.jpg" alt="Barnyard Recs" /></a>
       <h3>Barnyard Recs</h3>
-      <sub><b>Live · ~1,000 users · <a href="https://spade-digital-usa.vercel.app/">Spade Digital</a></b></sub>
-      <p>Electronic-music mentorship marketplace: timezone-aware booking, Stripe payments, a digital products store, video reviews transcoded with AWS MediaConvert, live chat and video calls.</p>
-      <code>Next.js</code> <code>AWS S3</code> <code>MediaConvert</code> <code>Clerk</code> <code>CometChat</code>
+      <sub><b>Live · $50k+ ARR · ~1,000 users · <a href="https://spade-digital-usa.vercel.app/">Spade Digital</a></b></sub>
+      <p>Electronic-music mentorship marketplace I built end to end: front end, back end and AWS hosting. Timezone-aware booking, automatic Stripe Connect payouts, a transaction ledger, video reviews transcoded with AWS MediaConvert, live chat and video calls.</p>
+      <code>Next.js</code> <code>Prisma</code> <code>AWS</code> <code>Stripe Connect</code> <code>CometChat</code>
     </td>
   </tr>
   <tr>
@@ -61,10 +64,10 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
       <code>Next.js 16</code> <code>Express 5</code> <code>MongoDB</code> <code>Vitest</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/SadeeMsr/portfolio"><img src="./assets/rohanos.jpg" alt="RohanOS portfolio" /></a>
-      <h3>RohanOS</h3>
-      <sub><b>Open source · <a href="https://github.com/SadeeMsr/portfolio">code</a></b></sub>
-      <p>My portfolio as a tiny operating system: a desktop with draggable windows, a phone UI on mobile, a working terminal and a bug-squashing mini-game.</p>
+      <a href="https://rohanships.com/"><img src="./assets/portfolio.jpg" alt="rohanships.com portfolio" /></a>
+      <h3>rohanships.com</h3>
+      <sub><b>Live · open source · <a href="https://github.com/SadeeMsr/portfolio">code</a></b></sub>
+      <p>My portfolio in two moods: a clean Pro mode with device-framed case studies, and RohanOS, a tiny operating system with draggable windows, a working terminal and a mini-game.</p>
       <code>Next.js 16</code> <code>React 19</code> <code>Tailwind 4</code>
     </td>
   </tr>
@@ -93,6 +96,6 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
 
 ## 📫 Let's talk
 
-The fastest way to reach me is email: **rohan.devwhiz@gmail.com**.
+The fastest way to reach me is email: **rohan.devwhiz@gmail.com**. Everything else lives at **[rohanships.com](https://rohanships.com/)**.
 
 <p align="center"><sub>Fuelled by coffee, strict TypeScript and well-named variables.</sub></p>
