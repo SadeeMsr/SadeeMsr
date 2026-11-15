@@ -16,7 +16,7 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
 🌐 **See everything at [rohanships.com](https://rohanships.com/)**: a clean Pro mode, or RohanOS if you're curious.
 
 - 🚚 **Now:** building and running [**TruckerPaperwork**](https://www.truckerpaperwork.com/), my own SaaS for truck drivers
-- 🎧 **Before:** two years at [Spade Digital](https://spade-digital-usa.vercel.app/) building [Barnyard Recs](https://www.barnyardrecs.com/) end to end (front end, back end and AWS), a mentorship marketplace now earning **$50k+ ARR** with around 1,000 active users
+- 🎧 **Before:** two years at [Spade Digital](https://spadedigital.com/) building [Barnyard Recs](https://www.barnyardrecs.com/) end to end (front end, back end and AWS), a mentorship marketplace now earning **$50k+ ARR** with around 1,000 active users
 - 🏫 **On the side:** a school platform that runs daily in 10 classes at [Sonamukh Smart Academy](https://www.sonamukh.org/)
 - 💼 **Open to** software engineering roles and selected freelance work
 
@@ -34,8 +34,8 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
     <td width="50%" valign="top">
       <a href="https://www.barnyardrecs.com/"><img src="./assets/barnyard-recs.jpg" alt="Barnyard Recs" /></a>
       <h3>Barnyard Recs</h3>
-      <sub><b>Live · $50k+ ARR · ~1,000 users · <a href="https://spade-digital-usa.vercel.app/">Spade Digital</a></b></sub>
-      <p>Electronic-music mentorship marketplace I built end to end: front end, back end and AWS hosting. Timezone-aware booking, automatic Stripe Connect payouts, a transaction ledger, video reviews transcoded with AWS MediaConvert, live chat and video calls.</p>
+      <sub><b>Live · $50k+ ARR · ~1,000 users · <a href="https://spadedigital.com/">Spade Digital</a></b></sub>
+      <p>Electronic-music mentorship marketplace I built end to end: front end, back end and AWS hosting. Timezone-aware booking, automatic Stripe Connect payouts when instructors hit their monthly goals, a transaction ledger that traces every sale, refund and payout, video reviews transcoded with AWS MediaConvert, live chat and video calls.</p>
       <code>Next.js</code> <code>Prisma</code> <code>AWS</code> <code>Stripe Connect</code> <code>CometChat</code>
     </td>
   </tr>
@@ -73,6 +73,47 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
   </tr>
 </table>
 
+### More work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.wozaif.com/"><img src="./assets/wozaif.jpg" alt="Wozaif" /></a>
+      <b>Wozaif</b><br /><sub>UAE recruitment platform for migrant workers, employers and agencies. Built at Doodle Inc. on AWS serverless.</sub><br />
+      <code>Next.js</code> <code>GraphQL</code> <code>AppSync</code> <code>DynamoDB</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.rpbilling.com/"><img src="./assets/rp-billing.jpg" alt="RP Billing" /></a>
+      <b>RP Billing</b><br /><sub>Billing and accounting system for a 100-person photography company: every booked event becomes invoices and ledgers.</sub><br />
+      <code>React</code> <code>Redux Toolkit</code> <code>Tailwind</code>
+    </td>
+    <td width="33%" valign="top">
+      <img src="./assets/statement-tools.jpg" alt="Statement Tools" />
+      <b>Statement Tools</b><br /><sub>Bank-statement PDFs to clean Excel and CSV, plus PDF unlocking.</sub><br />
+      <code>Next.js</code> <code>pdf-lib</code> <code>SheetJS</code>
+    </td>
+  </tr>
+</table>
+
+### Design and front-end showcase
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://homeschool-app-main.vercel.app/"><img src="./assets/skill-guild.jpg" alt="The Skill Guild" /></a>
+      <b>The Skill Guild</b><br /><sub>Front-end MVP of a homeschool platform with parent, kid, co-op and admin views, plus 3D scenes. <a href="https://homeschool-app-main.vercel.app/">Live demo</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://spade-digital-usa.vercel.app/"><img src="./assets/spade-site.jpg" alt="Spade Digital design showcase" /></a>
+      <b>Spade Digital design showcase</b><br /><sub>My scroll-driven animation concept for the agency site. The real company site is <a href="https://spadedigital.com/">spadedigital.com</a>. <a href="https://spade-digital-usa.vercel.app/">Live demo</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.oindrizareza.com/"><img src="./assets/oindriza.jpg" alt="Oindriza Reza" /></a>
+      <b>Oindriza Reza</b><br /><sub>Portfolio site for an architect and urban researcher.</sub>
+    </td>
+  </tr>
+</table>
+
 <sub>Most of my client work lives in private repos. Happy to walk you through the code on a call.</sub>
 
 ## 🧰 Tech I use
@@ -90,7 +131,7 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
 | Version | Role | When |
 | --- | --- | --- |
 | `v3.0` | **Software Engineer**, Independent (TruckerPaperwork, client MVPs) | Aug 2026 – now |
-| `v2.0 LTS` | **Software Developer**, [Spade Digital](https://spade-digital-usa.vercel.app/) | Jun 2024 – Jul 2026 |
+| `v2.0 LTS` | **Software Developer**, [Spade Digital](https://spadedigital.com/) | Jun 2024 – Jul 2026 |
 | `v1.0` | **Software Development Intern**, Doodle Inc. | Feb – Jun 2024 |
 | `v0.x beta` | **B.Sc. Computer Science**, Independent University, Bangladesh | 2019 – 2024 |
 
