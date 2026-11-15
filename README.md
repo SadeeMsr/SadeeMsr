@@ -13,7 +13,7 @@
 I'm a software engineer who builds web products end to end with **Next.js, Node.js and TypeScript**: Postgres schemas, APIs, AWS pipelines, payments, and the dashboards people actually use every day.
 
 - 🚚 **Now:** building and running [**TruckerPaperwork**](https://www.truckerpaperwork.com/), my own SaaS for truck drivers
-- 🎧 **Before:** two years at Spade Digital building [Barnyard Recs](https://www.barnyardrecs.com/), a mentorship marketplace with around 1,000 active users
+- 🎧 **Before:** two years at [Spade Digital](https://spade-digital-usa.vercel.app/) building [Barnyard Recs](https://www.barnyardrecs.com/), a mentorship marketplace with around 1,000 active users
 - 🏫 **On the side:** a school platform that runs daily in 10 classes at [Sonamukh Smart Academy](https://www.sonamukh.org/)
 - 💼 **Open to** software engineering roles and selected freelance work
 
@@ -31,7 +31,7 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
     <td width="50%" valign="top">
       <a href="https://www.barnyardrecs.com/"><img src="./assets/barnyard-recs.jpg" alt="Barnyard Recs" /></a>
       <h3>Barnyard Recs</h3>
-      <sub><b>Live · ~1,000 users · Spade Digital</b></sub>
+      <sub><b>Live · ~1,000 users · <a href="https://spade-digital-usa.vercel.app/">Spade Digital</a></b></sub>
       <p>Electronic-music mentorship marketplace: timezone-aware booking, Stripe payments, a digital products store, video reviews transcoded with AWS MediaConvert, live chat and video calls.</p>
       <code>Next.js</code> <code>AWS S3</code> <code>MediaConvert</code> <code>Clerk</code> <code>CometChat</code>
     </td>
@@ -87,7 +87,7 @@ I'm a software engineer who builds web products end to end with **Next.js, Node.
 | Version | Role | When |
 | --- | --- | --- |
 | `v3.0` | **Software Engineer**, Independent (TruckerPaperwork, client MVPs) | Aug 2026 – now |
-| `v2.0 LTS` | **Software Developer**, Spade Digital | Jun 2024 – Jul 2026 |
+| `v2.0 LTS` | **Software Developer**, [Spade Digital](https://spade-digital-usa.vercel.app/) | Jun 2024 – Jul 2026 |
 | `v1.0` | **Software Development Intern**, Doodle Inc. | Feb – Jun 2024 |
 | `v0.x beta` | **B.Sc. Computer Science**, Independent University, Bangladesh | 2019 – 2024 |
 
