@@ -79,7 +79,7 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.wozaif.com/"><img src="./assets/wozaif.jpg" alt="Wozaif" /></a>
-      <b>Wozaif</b><br /><sub>UAE recruitment platform for migrant workers, employers and agencies. Built at Doodle Inc. on AWS serverless.</sub><br />
+      <b>Wozaif</b><br /><sub>UAE recruitment platform for migrant workers, employers and agencies. Built at <a href="https://www.thedoodleinc.com/">Doodle Inc.</a> on AWS serverless.</sub><br />
       <code>Next.js</code> <code>GraphQL</code> <code>AppSync</code> <code>DynamoDB</code>
     </td>
     <td width="33%" valign="top">
@@ -132,7 +132,7 @@ I'm an AI-native software engineer who builds web products end to end with **Nex
 | --- | --- | --- |
 | `v3.0` | **Software Engineer**, Independent (TruckerPaperwork, client MVPs) | Aug 2026 – now |
 | `v2.0 LTS` | **Software Developer**, [Spade Digital](https://spadedigital.com/) | Jun 2024 – Jul 2026 |
-| `v1.0` | **Software Development Intern**, Doodle Inc. | Feb – Jun 2024 |
+| `v1.0` | **Software Development Intern**, [Doodle Inc.](https://www.thedoodleinc.com/) | Feb – Jun 2024 |
 | `v0.x beta` | **B.Sc. Computer Science**, Independent University, Bangladesh | 2019 – 2024 |
 
 ## 📫 Let's talk
